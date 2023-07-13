@@ -29,6 +29,20 @@ body{
 
 }
 
+.modulo{
+    margin: 20px;
+
+}
+
+.mdimg{
+    width: 300px;
+    height: 200px;
+    
+    border: 1px solid #061f29;
+    display: inline-block;
+
+}
+
 /*Folha*/
 div.menu{
     text-align: center;
@@ -37,7 +51,7 @@ div.menu{
 }
 
 header{
-    background-color: var(--color3);
+    background-image: linear-gradient(to right, #31e9dab0, #36b4aa);
     height: 150px;
     border-bottom: 2px solid var(--color6);
 
@@ -56,7 +70,7 @@ header > h1{
 }
 
 h1{
-    text-align: center;
+    text-align: left;
     font-family: var(--font-destaque);
     font-weight: bolder;
 
