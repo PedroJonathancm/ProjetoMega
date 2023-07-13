@@ -34,15 +34,6 @@ body{
 
 }
 
-.mdimg{
-    width: 300px;
-    height: 200px;
-    
-    border: 1px solid #061f29;
-    display: inline-block;
-
-}
-
 /*Folha*/
 div.menu{
     text-align: center;
